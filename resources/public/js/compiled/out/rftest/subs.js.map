@@ -1,0 +1,1 @@
+{"version":3,"file":"\/home\/pk\/work\/templating\/leiningen\/resources\/public\/js\/compiled\/out\/rftest\/subs.js","sources":["subs.cljs?rel=1563885434059"],"lineCount":9,"mappings":";AAAA;;;AAIA,gCAAA,hCAACA,yGAEA,WAAKC;AAAL,AACE,OAAA,mFAAOA","names":["re-frame.core\/reg-sub","db"]}
